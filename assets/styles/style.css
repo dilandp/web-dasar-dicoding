@@ -48,8 +48,12 @@ nav a:hover {
 	object-position: center;
 }
 
+.profile figure {
+	margin: 0 auto;
+}
+
 .profile img {
-	width: 200px;
+	width: 150px;
 }
 
 .card {
