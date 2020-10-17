@@ -11,6 +11,8 @@ _Sayangnya_ :cry: "penilaian tinggi" tersebut menjadi daya tarik tersendiri bagi
 
 Sangat kasian untuk peserta Prakerja yg kesulitan mengikuti pelajaran dan sudah "terlanjur" ikut kelas ini sebagai kelas yg diambil pertama, karena saat mereka belum bisa lulus pada batas waktu belajar itu artinya dana insentif tidak akan turun sama sekali, tidak bisa mengubah kelas lain dan Dicoding juga _sepertinya_ tidak memperpanjang batas waktu belajar :disappointed:`huufftt`
 
+_**Update:** Dicoding memberikan perpanjangan waktu 15 hari saat waktu belajar kawan-kawan habis melalui [Daftar Trial](https://www.dicoding.com/academies/subscriptions), jadi jangan berputus asa dan gunakan perpanjangan waktu sebaik-baiknya. Semangat kaka!_ :running_woman: :running_man:
+
 ### Harapan saya
 Silahkan bagi kawan-kawan peserta kelas ini, kalian bisa `copy-paste` kode HTML dan CSS yg sudah saya tes berjalan dengan baik.
 Saya share kode-kode latihan di sini **bukan untuk langsung dicontek** tapi sebaiknya kalian bisa pakai sebagai _perbandingan_ dengan kode yg sudah kalian buat sendiri saat mengikuti kelas, sehingga kalian bisa lebih paham khususnya saat mengalami `error`.
