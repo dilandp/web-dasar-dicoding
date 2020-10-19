@@ -18,7 +18,7 @@ Silahkan bagi kawan-kawan peserta kelas ini, kalian bisa `copy-paste` kode HTML 
 Saya share kode-kode latihan di sini **bukan untuk langsung dicontek** tapi sebaiknya kalian bisa pakai sebagai _perbandingan_ dengan kode yg sudah kalian buat sendiri saat mengikuti kelas, sehingga kalian bisa lebih paham khususnya saat mengalami `error`.
 
 ### Hasil tampilan
-Kalian bisa melihat hasil tampilan kode dengan klik di **[SINI](https://htmlpreview.github.io/?https://github.com/dilandp/web-dasar-dicoding/blob/master/index.html)** 
+Kalian bisa melihat hasil tampilan kode dengan klik di **[SINI](https://dilandp.github.io/web-dasar-dicoding/)** 
 
 ---
 >_"Sukses hanya untuk yang mau berubah, berjuang dan pantang menyerah", Narenda Wicaksono - CEO Dicoding_
